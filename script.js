@@ -1,7 +1,7 @@
 // your code here
 let name=document.getElementById("name");
 let year=document.getElementById("year");
-let display=document.getElementById("display");
+let display=document.getElementById("url");
 let btn=document.getElementById("button");
 function show(){
 	let nameValue = name.value.trim(); // Get input values and trim extra spaces
